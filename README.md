@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael karemi
 ======================================================================================================================================
 
-Data Analyst | Data Scientist
+Business Analyst |Data Analyst | Data Scientist
 -------------------------------
 
 As a Data Analyst/Data scientist, I am driven by the intersection of data and business strategy. With a keen eye for detail and a passion for problem-solving, I am committed to uncovering actionable insights from data to drive informed decision-making and optimize business processes. My goal is to leverage analytical techniques and technologies to transform raw data into meaningful narratives, empowering organizations to achieve their strategic objectives and stay ahead in today's competitive landscape.
